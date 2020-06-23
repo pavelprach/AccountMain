@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeJyMP5JkDEmNedp5fFyLdwZvI4WvP8ZUC2OiTH4BW7GGThCtj1vyOrWH166QfVr4dTXlnle2jCbcuWjptYdfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\Accountwin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

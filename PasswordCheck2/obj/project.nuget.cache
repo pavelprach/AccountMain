@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAGxl/7IDYg5ad2qccIfrSqr1KbKERmf7Qf69fnrPl1yMFagBk6WeFt8YZ32NWi8YXlhT2e7skcvjJogOZPwzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
