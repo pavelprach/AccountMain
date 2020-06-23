@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj",
+      "projectUniqueName": "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj",
       "projectName": "PasswordCheck2",
-      "projectPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj",
+      "projectPath": "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj",
       "packagesPath": "C:\\Users\\prach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\obj\\",
+      "outputPath": "C:\\reposC#\\Accout3\\PasswordCheck2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prach\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\Accountwin.csproj": {}
+    "C:\\reposC#\\Accout3\\Accountwin\\Accountwin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\Accountwin.csproj": {
+    "C:\\reposC#\\Accout3\\Accountwin\\Accountwin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\Accountwin.csproj",
+        "projectUniqueName": "C:\\reposC#\\Accout3\\Accountwin\\Accountwin.csproj",
         "projectName": "Accountwin",
-        "projectPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\Accountwin.csproj",
+        "projectPath": "C:\\reposC#\\Accout3\\Accountwin\\Accountwin.csproj",
         "packagesPath": "C:\\Users\\prach\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\Accountwin\\obj\\",
+        "outputPath": "C:\\reposC#\\Accout3\\Accountwin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj": {
-                "projectPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj"
+              "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj": {
+                "projectPath": "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj": {
+    "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj",
+        "projectUniqueName": "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj",
         "projectName": "PasswordCheck2",
-        "projectPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\PasswordCheck2.csproj",
+        "projectPath": "C:\\reposC#\\Accout3\\PasswordCheck2\\PasswordCheck2.csproj",
         "packagesPath": "C:\\Users\\prach\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prach\\Desktop\\Account-6d1ab36c331ba1f06bfa7dac4fe56e14009c73a3\\PasswordCheck2\\obj\\",
+        "outputPath": "C:\\reposC#\\Accout3\\PasswordCheck2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prach\\AppData\\Roaming\\NuGet\\NuGet.Config",

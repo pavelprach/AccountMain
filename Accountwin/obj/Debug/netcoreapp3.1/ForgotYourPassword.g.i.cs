@@ -101,7 +101,7 @@ namespace Accountwin {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Accountwin;V1.0.0.0;component/forgotyourpassword.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Accountwin;component/forgotyourpassword.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ForgotYourPassword.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

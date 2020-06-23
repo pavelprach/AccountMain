@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\test\Account\Accountwin\obj\Debug\netcoreapp3.1\
+C:\reposC#\Accout3\Accountwin\obj\Debug\netcoreapp3.1\
 Accountwin
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\test\Account\Accountwin\App.xaml
+C:\reposC#\Accout3\Accountwin\App.xaml
 3-2001776197
 
 5-973042088
-193-372124433
+193-83251413
 ForgotYourPassword.xaml;MainWindow.xaml;Sign_Up.xaml;
 
 False
