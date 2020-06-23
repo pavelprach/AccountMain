@@ -18,6 +18,7 @@ namespace Accountwin
     /// <summary>
     /// Логика взаимодействия для ForgotYourPassword.xaml
     /// </summary>
+    /// /////
     public partial class ForgotYourPassword : Window
     {
         public ForgotYourPassword()
