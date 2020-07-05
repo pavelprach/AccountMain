@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accountwin", "Accountwin\Accountwin.csproj", "{06E32339-B263-4E8D-9FC0-8AA5B3B022BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordCheck2", "PasswordCheck2\PasswordCheck2.csproj", "{DE4C345D-AA2A-45B4-ADD6-A198CE4635BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordCheck2", "PasswordCheck2\PasswordCheck2.csproj", "{DE4C345D-AA2A-45B4-ADD6-A198CE4635BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

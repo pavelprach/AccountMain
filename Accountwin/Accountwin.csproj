@@ -10,4 +10,13 @@
     <ProjectReference Include="..\PasswordCheck2\PasswordCheck2.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="CheckPassword">
+      <HintPath>..\..\..\Users\prach\source\repos\CheckPassword\CheckPassword\bin\Debug\netstandard2.0\CheckPassword.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

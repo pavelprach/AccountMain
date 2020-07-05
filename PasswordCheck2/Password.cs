@@ -18,11 +18,43 @@ namespace PasswordCheck2
         private readonly string symbols;
         public Password()
         {
-            lenght = 8;
+           /* lenght = 8;
             symbols1 = "QWERTYUIOPASDFGHJKLZXCVBNM";
             symbols2 = "qwertyuiopasdfghjklzxcvbnm";
             symbols3 = "!@#$%^&*()=+;,.";
-            symbols4 = "123456789";
+            symbols4 = "123456789";*/
+            
+            using (StreamReader file = new StreamReader("password.ini"))
+            {
+                string tempLine;
+                while((tempLine = file.ReadLine()) != null)
+                {
+                    int tempIndex = tempLine.IndexOf('=');
+                    if (tempIndex == -1) continue;
+                    string tempVar = tempLine.Substring(0, tempIndex);
+                    string tempSymbols = tempLine.Substring(tempIndex + 1);
+                    switch(tempVar)
+                    {
+                        case "lenght":
+                            lenght = Convert.ToInt32(tempSymbols);
+                                break;
+                        case "symbols1":
+                            symbols1 = tempSymbols;
+                            break;
+                        case "symbols2":
+                            symbols2 = tempSymbols;
+                            break;
+                        case "symbols3":
+                            symbols3 = tempSymbols;
+                            break;
+                        case "symbols4":
+                            symbols4 = tempSymbols;
+                            break;
+
+
+                    }
+                }
+            }
 
             symbols = symbols1 + symbols2 + symbols3 + symbols4;
         }

@@ -174,6 +174,7 @@ namespace Accountwin
             else
             {
                 labelPasswordCheck_4.Content = "Пароли не совпадают";
+                
             }
         }
     }

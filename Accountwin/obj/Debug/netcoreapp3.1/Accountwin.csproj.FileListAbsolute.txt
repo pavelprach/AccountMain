@@ -71,3 +71,6 @@ C:\reposC#\Accout3\Accountwin\obj\Debug\netcoreapp3.1\Accountwin.csproj.CopyComp
 C:\reposC#\Accout3\Accountwin\obj\Debug\netcoreapp3.1\Accountwin.dll
 C:\reposC#\Accout3\Accountwin\obj\Debug\netcoreapp3.1\Accountwin.pdb
 C:\reposC#\Accout3\Accountwin\obj\Debug\netcoreapp3.1\Accountwin.genruntimeconfig.cache
+C:\reposC#\Accout3\Accountwin\bin\Debug\netcoreapp3.1\CheckPassword.dll
+C:\reposC#\Accout3\Accountwin\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\reposC#\Accout3\Accountwin\bin\Debug\netcoreapp3.1\CheckPassword.pdb
